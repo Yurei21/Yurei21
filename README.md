@@ -5,21 +5,6 @@ I'm an aspiring Full-stack developer.
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yurei21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurei21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💻 Tech Stack:
 
 <table align="center">
@@ -73,6 +58,21 @@ I'm an aspiring Full-stack developer.
     </td>
     <td align="center" width="50%">
       <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" height="150" alt="Zani Wink GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yurei21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurei21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
