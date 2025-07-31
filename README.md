@@ -57,7 +57,7 @@ I'm an aspiring Full-stack developer.
       </div>
     </td>
     <td align="center" width="50%">
-      <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" height="150" alt="Zani Wink GIF" />
+      <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" alt="Zani Wink GIF" />
     </td>
   </tr>
 </table>
