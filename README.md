@@ -56,7 +56,7 @@ I'm an aspiring Full-stack developer.
       <img src="https://skillicons.dev/icons?i=pr" height="50" alt="Adobe Premiere Pro" />
       </div>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="60%">
       <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" alt="Zani Wink GIF" />
     </td>
   </tr>
