@@ -69,10 +69,7 @@ I'm an aspiring Full-stack developer.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yurei21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yurei21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      <img src="https://githubcard.com/Yurei21.svg?d=J8YRBWt9" alt="Top Languages" />
     </td>
   </tr>
 </table>
