@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 I'm an aspiring Full-stack developer.
-
+Interested in low-level programming (barely any progress), DevOps (Infrastracture), Networking, and WebDev.
 ---
 
 ## 💻 Tech Stack:
@@ -69,7 +69,7 @@ I'm an aspiring Full-stack developer.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://githubcard.com/Yurei21.svg?d=J8YRBWt9" alt="Top Languages" />
+      <img src="https://githubcard.com/Yurei21.svg?d=L6r-oEBQ" alt="" />
     </td>
   </tr>
 </table>
