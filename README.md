@@ -69,7 +69,7 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://githubcard.com/Yurei21.svg?d=Zjr-JlFd" alt="GitHub Stats" />
+      <img src="https://githubcard.com/Yurei21.svg?d=sbU5DDTE" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
