@@ -69,7 +69,10 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://githubcard.com/Yurei21.svg?d=sbU5DDTE" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-git-master-clarence-sabangans-projects.vercel.app/api?username=yurei21&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-git-master-clarence-sabangans-projects.vercel.app/api/top-langs?username=yurei21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
     </td>
   </tr>
 </table>
