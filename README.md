@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Clark</h2>
+<h2 align="center">Hi 👋! My name is Clark</h2> 
 
 # 💫 About Me:
 <h5 align="left">I'm an aspiring Full-stack developer.
