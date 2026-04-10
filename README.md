@@ -109,10 +109,19 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
 
 ---
 
-## 🎧 Recently Played on Spotify
+## 🎧 Spotify
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Yurei21">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knlncstlof56qqydz3a336v6fy&unique=true" alt="Spotify Recently Played" />
-  </a>
-</div>
+<table align="center"> 
+  <tr>
+    <td align="center"> 
+     <a href="https://open.spotify.com/user/Yurei21">
+       <img src="https://spotify-recently-played-readme.vercel.app/api?user=31knlncstlof56qqydz3a336v6fy&unique=true" alt="Spotify Recently Played" />
+     </a>
+     </td>
+     <td align="center">
+          <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31knlncstlof56qqydz3a336v6fy&redirect=true">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31knlncstlof56qqydz3a336v6fy&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false">
+          </a>
+      </td>
+  </tr>
+</table>
