@@ -8,7 +8,7 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
 ## 💻 Tech Stack:
 <table align="center">
   <tr>
-    <td align="center" width="38%">
+    <td align="center" width="40%">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
         <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
