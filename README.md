@@ -8,7 +8,7 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
 ## 💻 Tech Stack:
 <table align="center">
   <tr>
-    <td align="center" width="45%">
+    <td align="center" width="38%">
       <div align="left">
         <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
         <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
@@ -29,6 +29,7 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
         <img src="https://skillicons.dev/icons?i=nestjs" height="70" alt="NestJS" />
         <img src="https://skillicons.dev/icons?i=postgres" height="70" alt="PostgreSQL" />
         <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=sqlite" height="70" alt="SQLite" />
         <img src="https://skillicons.dev/icons?i=redis" height="70" alt="Redis" />
         <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="MongoDB" />
         <img src="https://skillicons.dev/icons?i=docker" height="70" alt="Docker" />
@@ -48,10 +49,7 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
       </div>
     </td>
     <td align="center" width="60%">
-      <img
-        src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif"
-        alt="Zani Wink GIF"
-      />
+      <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" alt="Zani Wink GIF" />
     </td>
   </tr>
 </table>
