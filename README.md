@@ -6,58 +6,52 @@ Interested in low-level programming (barely any progress), DevOps (Infrastractur
   
  
 ## 💻 Tech Stack:
-
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="45%">
       <div align="left">
-      <!-- Programming Languages -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="C#" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-      <!-- Frontend -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="50" alt="jQuery" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="TailwindCSS" />
-      <!-- Backend -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express.js" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="Laravel" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="50" alt="Socket.io" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="50" alt="Sequelize" />
-      <!-- Databases -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="50" alt="SQLite" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-      <!-- Tools -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="50" alt="Composer" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="Firebase" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="Apache" />
-      <!-- IDEs -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="50" alt="Visual Studio" />
-      <!-- Design -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" />
-      <img src="https://skillicons.dev/icons?i=ae" height="50" alt="Adobe After Effects" />
-      <img src="https://skillicons.dev/icons?i=au" height="50" alt="Adobe Audition" />
-      <img src="https://skillicons.dev/icons?i=ai" height="50" alt="Adobe Illustrator" />
-      <img src="https://skillicons.dev/icons?i=ps" height="50" alt="Adobe Photoshop" />
-      <img src="https://skillicons.dev/icons?i=pr" height="50" alt="Adobe Premiere Pro" />
+        <img src="https://skillicons.dev/icons?i=js" height="70" alt="JavaScript" />
+        <img src="https://skillicons.dev/icons?i=ts" height="70" alt="TypeScript" />
+        <img src="https://skillicons.dev/icons?i=py" height="70" alt="Python" />
+        <img src="https://skillicons.dev/icons?i=c" height="70" alt="C" />
+        <img src="https://skillicons.dev/icons?i=cs" height="70" alt="C#" />
+        <img src="https://skillicons.dev/icons?i=php" height="70" alt="PHP" />
+        <img src="https://skillicons.dev/icons?i=html" height="70" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=css" height="70" alt="CSS3" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="Bootstrap" />
+        <img src="https://skillicons.dev/icons?i=jquery" height="70" alt="jQuery" />
+        <img src="https://skillicons.dev/icons?i=tailwind" height="70" alt="TailwindCSS" />
+        <img src="https://skillicons.dev/icons?i=react" height="70" alt="React" />
+        <img src="https://skillicons.dev/icons?i=nextjs" height="70" alt="Next.js" />
+        <img src="https://skillicons.dev/icons?i=flutter" height="70" alt="Flutter" />
+        <img src="https://skillicons.dev/icons?i=express" height="70" alt="Express.js" />
+        <img src="https://skillicons.dev/icons?i=laravel" height="70" alt="Laravel" />
+        <img src="https://skillicons.dev/icons?i=nestjs" height="70" alt="NestJS" />
+        <img src="https://skillicons.dev/icons?i=postgres" height="70" alt="PostgreSQL" />
+        <img src="https://skillicons.dev/icons?i=mysql" height="70" alt="MySQL" />
+        <img src="https://skillicons.dev/icons?i=redis" height="70" alt="Redis" />
+        <img src="https://skillicons.dev/icons?i=mongodb" height="70" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=docker" height="70" alt="Docker" />
+        <img src="https://skillicons.dev/icons?i=kubernetes" height="70" alt="Kubernetes" />
+        <img src="https://skillicons.dev/icons?i=git" height="70" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
+        <img src="https://skillicons.dev/icons?i=githubactions" height="70" alt="GitHub Actions" />
+        <img src="https://skillicons.dev/icons?i=maven" height="70" alt="Apache Maven" />
+        <img src="https://skillicons.dev/icons?i=vscode" height="70" alt="VS Code" />
+        <img src="https://skillicons.dev/icons?i=visualstudio" height="70" alt="Visual Studio" />
+        <img src="https://skillicons.dev/icons?i=figma" height="70" alt="Figma" />
+        <img src="https://skillicons.dev/icons?i=ps" height="70" alt="Adobe Photoshop" />
+        <img src="https://skillicons.dev/icons?i=ai" height="70" alt="Adobe Illustrator" />
+        <img src="https://skillicons.dev/icons?i=pr" height="70" alt="Adobe Premiere Pro" />
+        <img src="https://skillicons.dev/icons?i=ae" height="70" alt="Adobe After Effects" />
+        <img src="https://skillicons.dev/icons?i=blender" height="70" alt="Blender" />
       </div>
     </td>
     <td align="center" width="60%">
-      <img src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif" alt="Zani Wink GIF" />
+      <img
+        src="https://media1.tenor.com/m/ZS4PGVySFRAAAAAC/zani-zani-wink.gif"
+        alt="Zani Wink GIF"
+      />
     </td>
   </tr>
 </table>
